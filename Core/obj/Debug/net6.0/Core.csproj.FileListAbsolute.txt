@@ -1,0 +1,12 @@
+E:\Ecommerce\skinet\Core\bin\Debug\net6.0\Core.deps.json
+E:\Ecommerce\skinet\Core\bin\Debug\net6.0\Core.dll
+E:\Ecommerce\skinet\Core\bin\Debug\net6.0\Core.pdb
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.dll
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\refint\Core.dll
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\Core.pdb
+E:\Ecommerce\skinet\Core\obj\Debug\net6.0\ref\Core.dll
